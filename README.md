@@ -1,3 +1,0 @@
-- 👋 Hi, I’m Md Yeasin Ali
-- 👀 I’m interested in programming and problems solving.
-- 🌱 I’m currently learning coding 
