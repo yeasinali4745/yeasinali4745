@@ -1,12 +1,16 @@
-- 👋 Hi, This is yeasin ali
-- 👀 I’m interested in programming and solving problems.
-- 🌱 I’m currently learning Node js.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi, This is Yeasin 👋
 
-<!---
-yeasinali4745/yeasinali4745 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am an aspiring Full-Stack Developer with a passion for **Web Development** and **Competitive Programming**. I love exploring new technologies, solving problems, and building meaningful projects.
+
+### 🔧 Technologies & Tools:
+- **Frontend:** React.js, Tailwind CSS, HTML, CSS
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB, MySQL
+- **Others:** Git, GitHub, AR/VR (Learning)
+
+### 🌱 Currently Learning:
+- Augmented Reality (AR) & Virtual Reality (VR)
+- Advanced JavaScript & Full-Stack Development
+
+
+Feel free to connect with me! Let's collaborate and build awesome things. 😊
